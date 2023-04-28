@@ -1,0 +1,5 @@
+name: FixQueryUsernameLeak
+version: '${project.version}'
+main: com.mrengman.fixqueryusernameleak.FixQueryUsernameLeak
+api-version: 1.19
+description: Respect player's "Allow Server Listings" client setting when replying to query requests
